@@ -1,4 +1,4 @@
 # ayush-demo
 this is my first project.
 <br>
-author - ayush kumar
+author - ayush kumar(main)
